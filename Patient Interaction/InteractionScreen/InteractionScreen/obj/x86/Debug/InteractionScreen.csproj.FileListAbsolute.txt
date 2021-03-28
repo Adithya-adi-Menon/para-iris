@@ -1,0 +1,51 @@
+C:\Users\Administrator\Desktop\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.exe
+C:\Users\Administrator\Desktop\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.pdb
+C:\Users\Administrator\Desktop\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Screen.resources
+C:\Users\Administrator\Desktop\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.exe
+C:\Users\Administrator\Desktop\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.pdb
+C:\Users\MANU\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.exe
+C:\Users\MANU\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.pdb
+C:\Users\MANU\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.exe
+C:\Users\MANU\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.pdb
+C:\Users\MANU\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Properties.Resources.resources
+C:\Users\MANU\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Screen.resources
+C:\Users\MANU\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.exe
+C:\Users\lenovo\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.pdb
+C:\Users\Sibi\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.exe
+C:\Users\Sibi\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.pdb
+C:\Users\Sibi\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.exe
+C:\Users\Sibi\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.pdb
+C:\Users\Sibi\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Properties.Resources.resources
+C:\Users\Sibi\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Screen.resources
+C:\Users\Sibi\Desktop\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.csproj.GenerateResource.Cache
+D:\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.exe
+D:\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.pdb
+D:\proj\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.exe
+D:\proj\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.pdb
+D:\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Properties.Resources.resources
+D:\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Screen.resources
+D:\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.csproj.GenerateResource.Cache
+D:\proj\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.csprojResolveAssemblyReference.cache
+D:\proj\Project\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.exe
+D:\proj\Project\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.pdb
+E:\Project\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.exe
+E:\Project\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.pdb
+E:\Project\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Properties.Resources.resources
+E:\Project\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Screen.resources
+E:\Project\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.csproj.GenerateResource.cache
+E:\Project\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.csproj.CoreCompileInputs.cache
+E:\Project\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.exe
+E:\Project\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.pdb
+E:\Project\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.csprojAssemblyReference.cache
+E:\pROJECTS\para iris\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.exe
+E:\pROJECTS\para iris\Patient Interaction\InteractionScreen\InteractionScreen\bin\Debug\InteractionScreen.pdb
+E:\pROJECTS\para iris\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.csprojAssemblyReference.cache
+E:\pROJECTS\para iris\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Properties.Resources.resources
+E:\pROJECTS\para iris\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.Screen.resources
+E:\pROJECTS\para iris\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.csproj.GenerateResource.cache
+E:\pROJECTS\para iris\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.csproj.CoreCompileInputs.cache
+E:\pROJECTS\para iris\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.exe
+E:\pROJECTS\para iris\Patient Interaction\InteractionScreen\InteractionScreen\obj\x86\Debug\InteractionScreen.pdb

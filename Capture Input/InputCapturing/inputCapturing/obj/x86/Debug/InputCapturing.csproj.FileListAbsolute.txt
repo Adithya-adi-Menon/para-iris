@@ -1,0 +1,60 @@
+C:\Users\MANU\Desktop\proj\Capture Input\InputCapturing\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+C:\Users\MANU\Desktop\proj\Capture Input\InputCapturing\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+C:\Users\MANU\Desktop\proj\Capture Input\InputCapturing\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+C:\Users\MANU\Desktop\proj\Capture Input\InputCapturing\OpenCVWinForm\obj\x86\Debug\InputCapturing.csprojResolveAssemblyReference.cache
+C:\Users\MANU\Desktop\proj\Capture Input\InputCapturing\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+C:\Users\MANU\Desktop\proj\Capture Input\InputCapturing\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+C:\Users\MANU\Desktop\proj\Capture Input\InputCapturing\OpenCVWinForm\obj\x86\Debug\InputCapturing.csproj.GenerateResource.Cache
+C:\Users\MANU\Desktop\proj\Capture Input\InputCapturing\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+C:\Users\MANU\Desktop\proj\Capture Input\InputCapturing\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+C:\Users\lenovo\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+C:\Users\lenovo\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+C:\Users\lenovo\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\proj\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.exe.config
+C:\Users\lenovo\Desktop\proj\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.exe
+C:\Users\lenovo\Desktop\proj\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.pdb
+C:\Users\lenovo\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.exe
+C:\Users\lenovo\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.pdb
+C:\Users\Sibi\Desktop\proj\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.exe.config
+C:\Users\Sibi\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.exe
+C:\Users\Sibi\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.pdb
+C:\Users\Sibi\Desktop\proj\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.exe
+C:\Users\Sibi\Desktop\proj\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.pdb
+C:\Users\Sibi\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csprojResolveAssemblyReference.cache
+C:\Users\Sibi\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+C:\Users\Sibi\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+C:\Users\Sibi\Desktop\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csproj.GenerateResource.Cache
+D:\proj\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.exe.config
+D:\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.exe
+D:\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.pdb
+D:\proj\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.exe
+D:\proj\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.pdb
+D:\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csprojResolveAssemblyReference.cache
+D:\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+D:\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+D:\proj\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csproj.GenerateResource.Cache
+D:\proj\Project\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.exe.config
+D:\proj\Project\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.exe
+D:\proj\Project\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.pdb
+E:\Project\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.exe.config
+E:\Project\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.exe
+E:\Project\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.pdb
+E:\Project\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csprojAssemblyReference.cache
+E:\Project\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+E:\Project\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+E:\Project\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csproj.GenerateResource.cache
+E:\Project\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csproj.CopyComplete
+E:\Project\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.exe
+E:\Project\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.pdb
+E:\pROJECTS\para iris\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.exe.config
+E:\pROJECTS\para iris\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.exe
+E:\pROJECTS\para iris\Capture Input\InputCapturing\inputCapturing\bin\Debug\OpenCVWinForm.pdb
+E:\pROJECTS\para iris\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csprojAssemblyReference.cache
+E:\pROJECTS\para iris\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+E:\pROJECTS\para iris\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+E:\pROJECTS\para iris\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csproj.GenerateResource.cache
+E:\pROJECTS\para iris\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csproj.CoreCompileInputs.cache
+E:\pROJECTS\para iris\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\InputCapturing.csproj.CopyComplete
+E:\pROJECTS\para iris\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.exe
+E:\pROJECTS\para iris\Capture Input\InputCapturing\inputCapturing\obj\x86\Debug\OpenCVWinForm.pdb

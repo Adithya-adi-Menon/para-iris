@@ -1,0 +1,29 @@
+c:\users\administrator\documents\visual studio 2010\Projects\myform\myform\bin\Debug\myform.exe
+c:\users\administrator\documents\visual studio 2010\Projects\myform\myform\bin\Debug\myform.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\myform\myform\obj\x86\Debug\myform.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\myform\myform\obj\x86\Debug\myform.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\myform\myform\obj\x86\Debug\myform.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\myform\myform\obj\x86\Debug\myform.exe
+c:\users\administrator\documents\visual studio 2010\Projects\myform\myform\obj\x86\Debug\myform.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\myform\myform\obj\x86\Debug\myform.csprojResolveAssemblyReference.cache
+C:\Users\Sibi\Desktop\myform\myform\obj\x86\Debug\myform.exe
+C:\Users\Sibi\Desktop\myform\myform\obj\x86\Debug\myform.pdb
+D:\proj\myform\myform\obj\x86\Debug\myform.exe
+D:\proj\myform\myform\obj\x86\Debug\myform.pdb
+D:\proj\myform\myform\bin\Debug\myform.exe
+D:\proj\myform\myform\bin\Debug\myform.pdb
+D:\proj\myform\myform\obj\x86\Debug\myform.csprojResolveAssemblyReference.cache
+D:\proj\myform\myform\obj\x86\Debug\myform.Form1.resources
+D:\proj\myform\myform\obj\x86\Debug\myform.Properties.Resources.resources
+D:\proj\myform\myform\obj\x86\Debug\myform.csproj.GenerateResource.Cache
+D:\proj\Project\myform\myform\obj\x86\Debug\myform.exe
+D:\proj\Project\myform\myform\obj\x86\Debug\myform.pdb
+E:\Project\myform\myform\bin\Debug\myform.exe
+E:\Project\myform\myform\bin\Debug\myform.pdb
+E:\Project\myform\myform\obj\x86\Debug\myform.csprojAssemblyReference.cache
+E:\Project\myform\myform\obj\x86\Debug\myform.Form1.resources
+E:\Project\myform\myform\obj\x86\Debug\myform.Properties.Resources.resources
+E:\Project\myform\myform\obj\x86\Debug\myform.csproj.GenerateResource.cache
+E:\Project\myform\myform\obj\x86\Debug\myform.exe
+E:\Project\myform\myform\obj\x86\Debug\myform.pdb
+E:\Project\myform\myform\obj\x86\Debug\myform.csproj.CoreCompileInputs.cache

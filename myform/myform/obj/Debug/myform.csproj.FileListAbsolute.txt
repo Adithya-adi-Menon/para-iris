@@ -1,0 +1,17 @@
+E:\Project\myform\myform\bin\Debug\myform.exe
+E:\Project\myform\myform\bin\Debug\myform.pdb
+E:\Project\myform\myform\obj\Debug\myform.csprojAssemblyReference.cache
+E:\Project\myform\myform\obj\Debug\myform.Form1.resources
+E:\Project\myform\myform\obj\Debug\myform.Properties.Resources.resources
+E:\Project\myform\myform\obj\Debug\myform.csproj.GenerateResource.cache
+E:\Project\myform\myform\obj\Debug\myform.exe
+E:\Project\myform\myform\obj\Debug\myform.pdb
+E:\pROJECTS\para iris\myform\myform\bin\Debug\myform.exe
+E:\pROJECTS\para iris\myform\myform\bin\Debug\myform.pdb
+E:\pROJECTS\para iris\myform\myform\obj\Debug\myform.csprojAssemblyReference.cache
+E:\pROJECTS\para iris\myform\myform\obj\Debug\myform.Form1.resources
+E:\pROJECTS\para iris\myform\myform\obj\Debug\myform.Properties.Resources.resources
+E:\pROJECTS\para iris\myform\myform\obj\Debug\myform.csproj.GenerateResource.cache
+E:\pROJECTS\para iris\myform\myform\obj\Debug\myform.exe
+E:\pROJECTS\para iris\myform\myform\obj\Debug\myform.pdb
+E:\pROJECTS\para iris\myform\myform\obj\Debug\myform.csproj.CoreCompileInputs.cache
